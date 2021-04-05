@@ -1,0 +1,14 @@
+[
+  {
+    "pokerHandId": 0,
+    "card1": "JS",
+    "card2": "JH",
+    "card3": "2D",
+    "card4": "JC",
+    "card5": "2C",
+    "player": {
+      "userName": "SamsterFH",
+      "userId": ""
+    }
+  }
+]

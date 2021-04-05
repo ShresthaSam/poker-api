@@ -1,0 +1,50 @@
+[
+  {
+    "pokerHandId": 0,
+    "card1": "AH",
+    "card2": "JS",
+    "card3": "8D",
+    "card4": "7C",
+    "card5": "2D",
+    "player": {
+      "userName": "Samster1",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "AD",
+    "card2": "JC",
+    "card3": "10H",
+    "card4": "8H",
+    "card5": "3S",
+    "player": {
+      "userName": "Samster2",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "AC",
+    "card2": "JD",
+    "card3": "8C",
+    "card4": "7D",
+    "card5": "2C",
+    "player": {
+      "userName": "Samster3",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "10C",
+    "card2": "9D",
+    "card3": "7H",
+    "card4": "3D",
+    "card5": "2H",
+    "player": {
+      "userName": "Samster4",
+      "userId": ""
+    }
+  }
+]

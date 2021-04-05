@@ -1,0 +1,74 @@
+[
+  {
+    "pokerHandId": 0,
+    "card1": "JS",
+    "card2": "JH",
+    "card3": "2D",
+    "card4": "JC",
+    "card5": "2C",
+    "player": {
+      "userName": "SamsterFullHouse",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "QH",
+    "card2": "8H",
+    "card3": "7H",
+    "card4": "10H",
+    "card5": "KH",
+    "player": {
+      "userName": "PeteFlush",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "2S",
+    "card2": "3S",
+    "card3": "4S",
+    "card4": "5S",
+    "card5": "6S",
+    "player": {
+      "userName": "DanStraightFlush",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "10D",
+    "card2": "JD",
+    "card3": "QD",
+    "card4": "KD",
+    "card5": "AD",
+    "player": {
+      "userName": "MeganStraightFlush",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "9S",
+    "card2": "9H",
+    "card3": "10C",
+    "card4": "9D",
+    "card5": "9C",
+    "player": {
+      "userName": "JimFourOfAKind",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "QS",
+    "card2": "8S",
+    "card3": "7S",
+    "card4": "10S",
+    "card5": "KS",
+    "player": {
+      "userName": "HeidiFlush",
+      "userId": ""
+    }
+  }
+]

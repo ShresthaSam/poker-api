@@ -1,0 +1,38 @@
+[
+  {
+    "pokerHandId": 0,
+    "card1": "AH",
+    "card2": "3H",
+    "card3": "10C",
+    "card4": "JH",
+    "card5": "QC",
+    "player": {
+      "userName": "HighCard",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "2S",
+    "card2": "3S",
+    "card3": "AS",
+    "card4": "5S",
+    "card5": "4S",
+    "player": {
+      "userName": "AceLowFiveHigh1",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "2D",
+    "card2": "AD",
+    "card3": "4D",
+    "card4": "3D",
+    "card5": "5D",
+    "player": {
+      "userName": "AceLowFiveHigh2",
+      "userId": ""
+    }
+  }
+]

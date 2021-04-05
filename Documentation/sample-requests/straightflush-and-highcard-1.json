@@ -1,0 +1,38 @@
+[
+  {
+    "pokerHandId": 0,
+    "card1": "AS",
+    "card2": "3H",
+    "card3": "10C",
+    "card4": "JS",
+    "card5": "QC",
+    "player": {
+      "userName": "Jimboee21",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "2S",
+    "card2": "3S",
+    "card3": "4S",
+    "card4": "5S",
+    "card5": "6S",
+    "player": {
+      "userName": "Jimboee22",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "10D",
+    "card2": "JD",
+    "card3": "QD",
+    "card4": "KD",
+    "card5": "AD",
+    "player": {
+      "userName": "Jimboee23",
+      "userId": ""
+    }
+  }
+]

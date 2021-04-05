@@ -1,0 +1,26 @@
+[
+  {
+    "pokerHandId": 0,
+    "card1": "9S",
+    "card2": "9H",
+    "card3": "10C",
+    "card4": "9D",
+    "card5": "9C",
+    "player": {
+      "userName": "Jimboee21",
+      "userId": ""
+    }
+  },
+  {
+    "pokerHandId": 0,
+    "card1": "7C",
+    "card2": "3C",
+    "card3": "10C",
+    "card4": "AC",
+    "card5": "2C",
+    "player": {
+      "userName": "Samster568",
+      "userId": ""
+    }
+  }
+]
